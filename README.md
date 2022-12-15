@@ -32,4 +32,4 @@ Los archivos 05-08 refieren al **Problema 2**: predicción del destino de los vi
 * **07_nn_problema_2.ipynb**: Definición, entrenamiento y evaluación de la red neuronal aplicada al Problema 2.
 * **08_mlg_problema_2.R**: Definición, ajuste y evaluación del modelo clásico aplicado al Problema 2.
 
-Los conjuntos de datos utilizados para la confección de este trabajo fueron proporcionados por la Municipalidad de Rosario, bajo el marco de la cuarta edición del concurso ``Premio Dra. Elsa Servy'' (https://www.fcecon.unr.edu.ar/web-nueva/premio-dra-elsa-servy). Dichos datos son de carácter confidencial y por lo tanto no forman parte de este repositorio.
+Los conjuntos de datos utilizados para la confección de este trabajo fueron proporcionados por la Municipalidad de Rosario, bajo el marco de la cuarta edición del concurso ''Premio Dra. Elsa Servy'' (https://www.fcecon.unr.edu.ar/web-nueva/premio-dra-elsa-servy). Dichos datos son de carácter confidencial y por lo tanto no forman parte de este repositorio.
